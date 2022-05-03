@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T20:13:10.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="_W7rw0zwymr68pipGrbq" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T20:26:27.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="eeJGmAoohD9nozeYL3ai" version="17.4.6" type="github" pages="2">
   <diagram id="-n3SveMbxcpS1b3kubi4" name="学生功能需求用例图">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,65 @@
         </mxCell>
         <mxCell id="1q8jQscAGU-jVJh6QRQ4-32" value="后台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kU7GjnQ_gDtMYdkB0Bnj" name="教师功能需求用例图">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LHjdpgWogAK5zunMESh8-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="3Ih0SOR795J8DeUfDDt6-1" target="LHjdpgWogAK5zunMESh8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="3Ih0SOR795J8DeUfDDt6-1" target="LHjdpgWogAK5zunMESh8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="3Ih0SOR795J8DeUfDDt6-1" target="LHjdpgWogAK5zunMESh8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="3Ih0SOR795J8DeUfDDt6-1" target="LHjdpgWogAK5zunMESh8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="3Ih0SOR795J8DeUfDDt6-1" target="LHjdpgWogAK5zunMESh8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="3Ih0SOR795J8DeUfDDt6-1" target="LHjdpgWogAK5zunMESh8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="3Ih0SOR795J8DeUfDDt6-1" target="LHjdpgWogAK5zunMESh8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;entryPerimeter=0;" edge="1" parent="1" source="3Ih0SOR795J8DeUfDDt6-1" target="LHjdpgWogAK5zunMESh8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ih0SOR795J8DeUfDDt6-1" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-1" value="登录/注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-2" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;查看/修改个人信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-4" value="&lt;span style=&quot;font-size: 14px&quot;&gt;修改密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-5" value="&lt;span style=&quot;font-size: 14px&quot;&gt;作业管理（增删改查）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-6" value="&lt;span style=&quot;font-size: 14px&quot;&gt;作业回答批改&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;课程管理（增删改查）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-8" value="&lt;span style=&quot;font-size: 14px&quot;&gt;查看学生个人详细信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHjdpgWogAK5zunMESh8-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;退出登录&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="520" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
