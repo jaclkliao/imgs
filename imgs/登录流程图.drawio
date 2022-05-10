@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T13:33:09.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="072e9iq12JWMb_8JtDst" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T13:33:51.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="S95Wm7wr4yyuCt1ykBWn" version="17.5.0" type="github">
   <diagram id="D_EOzAJcXs7magWXyqsy" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="ID0JFheKa3dJkD5rysL6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="ID0JFheKa3dJkD5rysL6-2" target="ID0JFheKa3dJkD5rysL6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ID0JFheKa3dJkD5rysL6-2" value="输入用户名、密码和验证码" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=16;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="ID0JFheKa3dJkD5rysL6-2" value="输入用户名、密码和验证码&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;（必须输入学生的用户名和密码）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=16;strokeWidth=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="291.88" y="170" width="210.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ID0JFheKa3dJkD5rysL6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="ID0JFheKa3dJkD5rysL6-4" target="ID0JFheKa3dJkD5rysL6-6">
