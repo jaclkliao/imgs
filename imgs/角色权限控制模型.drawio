@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T09:19:08.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="18.0.2" etag="LwSpH0Of7W3c6oniJQ6r" type="github"><diagram id="oK4mcoU1lRTCsZJt8EaL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-11T09:25:35.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="-fzfVEBdERSBbFZ8kEvZ" version="18.0.2" type="github">
+  <diagram id="oK4mcoU1lRTCsZJt8EaL" name="第 1 页">
+    <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-3" value="角色分配" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;labelBackgroundColor=none;verticalAlign=top;" edge="1" parent="1" source="zpCJuXfbYK1oF4-0pNFL-1" target="zpCJuXfbYK1oF4-0pNFL-2">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-1" value="角色&lt;br&gt;（role）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="216.25" width="180" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-2" value="用户（user）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" vertex="1" parent="zpCJuXfbYK1oF4-0pNFL-7">
+          <mxGeometry width="180" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-4" value="学生" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zpCJuXfbYK1oF4-0pNFL-7">
+          <mxGeometry x="10" y="32.75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-5" value="教师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zpCJuXfbYK1oF4-0pNFL-7">
+          <mxGeometry x="65" y="32.75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-6" value="管理员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zpCJuXfbYK1oF4-0pNFL-7">
+          <mxGeometry x="120" y="32.75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-9" value="权限分配" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;labelBackgroundColor=none;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <mxPoint x="560" y="254.6600000000001" as="sourcePoint" />
+            <mxPoint x="469.9998574610879" y="254.7289655172414" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="220" width="170" height="76.25" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-10" value="权限（permission）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;verticalAlign=top;" vertex="1" parent="zpCJuXfbYK1oF4-0pNFL-13">
+          <mxGeometry width="170" height="76.25" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-11" value="资源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zpCJuXfbYK1oF4-0pNFL-13">
+          <mxGeometry x="21" y="33" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zpCJuXfbYK1oF4-0pNFL-12" value="操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zpCJuXfbYK1oF4-0pNFL-13">
+          <mxGeometry x="91" y="33" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
