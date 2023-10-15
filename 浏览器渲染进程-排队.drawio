@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T15:20:27.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="18.1.1" etag="wic67NbItywB70WzbtNo" type="github"><diagram id="3rK3gkkTjbCFrCzx7n2E">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-10-15T15:28:09.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_mdfXf6ES9nfvA7siGcX" version="18.1.1" type="github">
+  <diagram id="3rK3gkkTjbCFrCzx7n2E" name="第 1 页">
+    <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-1" value="渲染主线程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="250" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="QVAg8NVQEl6AVlK1M2sa-5">
+          <mxGeometry y="40" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-3" value="正在执行的任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="QVAg8NVQEl6AVlK1M2sa-5">
+          <mxGeometry width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-4" value="任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;" vertex="1" parent="QVAg8NVQEl6AVlK1M2sa-5">
+          <mxGeometry x="14" y="50" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-10" value="" style="group;fillColor=#E6E6E6;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="390" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#E6E6E6;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-9" value="任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#EDEDED;" vertex="1" parent="1">
+          <mxGeometry x="274" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-11" value="任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#EDEDED;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-13" value="任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#EDEDED;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-14" value="任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#EDEDED;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-15" value="消息队列&lt;br&gt;message queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="25" y="405" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-16" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="QVAg8NVQEl6AVlK1M2sa-4" target="QVAg8NVQEl6AVlK1M2sa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=16;fontColor=#000000;strokeWidth=1;" edge="1" parent="1" source="QVAg8NVQEl6AVlK1M2sa-17" target="QVAg8NVQEl6AVlK1M2sa-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="500" />
+              <mxPoint x="485" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-17" value="其他线程" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=16;fontColor=#000000;strokeWidth=1;" edge="1" parent="1" source="QVAg8NVQEl6AVlK1M2sa-18" target="QVAg8NVQEl6AVlK1M2sa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVAg8NVQEl6AVlK1M2sa-18" value="其他线程" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="446" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
